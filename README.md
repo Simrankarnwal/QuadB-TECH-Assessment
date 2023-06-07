@@ -1,6 +1,6 @@
 # QuadB-TECH-ASSESSMENT deployed link
 
-# https://github.com/Simrankarnwal/QuadB-TECH-Assessment
+# https://6480b61b8b26e4140a8433d3--magnificent-sunflower-b2dea8.netlify.app/
 
 # Getting Started with Create React App
 
