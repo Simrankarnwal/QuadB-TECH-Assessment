@@ -1,6 +1,6 @@
 # QuadB-TECH-ASSESSMENT deployed link
 
-# https://github.com/Simrankarnwal/QuadB-TECH-Assessment.git
+# https://github.com/Simrankarnwal/QuadB-TECH-Assessment
 
 # Getting Started with Create React App
 
